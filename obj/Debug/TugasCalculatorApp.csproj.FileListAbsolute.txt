@@ -1,0 +1,11 @@
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csprojAssemblyReference.cache
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.FormEntry.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.FormList.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.Properties.Resources.resources
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csproj.GenerateResource.cache
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.csproj.CoreCompileInputs.cache
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.exe.config
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.exe
+D:\TUGAS!\TugasCalculatorApp\bin\Debug\TugasCalculatorApp.pdb
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.exe
+D:\TUGAS!\TugasCalculatorApp\obj\Debug\TugasCalculatorApp.pdb

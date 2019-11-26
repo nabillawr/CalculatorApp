@@ -70,7 +70,7 @@
             this.Controls.Add(this.btnHitung);
             this.Controls.Add(this.groupBox1);
             this.Name = "FormList";
-            this.Text = "Hasil Perhitungan";
+            this.Text = "t4";
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
 
